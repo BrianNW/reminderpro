@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import App form './components/App';
+
 
 class App extends Component {
   render() {
