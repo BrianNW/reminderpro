@@ -1,3 +1,5 @@
+//Reducers
+
 import { ADD_REMINDER, DELETE_REMINDER } from '../constants';
 
 const reminder = (action) => {
